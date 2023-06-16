@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+.ul, li , a { margin:0 ; padding:0 ; }
+.top_head{width:1500px;height:266px; margin-right:auto; margin-left:auto; color: #FF0004}
+.nev{width:1500px;height:40px;background:#7FAFE8;margin-right:auto;margin: auto}
+.nev ul {margin-right: auto }
+.nev ul li {float:right;margin-right:70px;list-style:none;margin-top:-10px; }
+.nev ul li a{text-decoration:none;}
+.nev from input {margin-top:3px; margin-left:16px;}
+.center{width:1400px;  margin-right:auto ; margin-top: 15px ; margin-bottom: 15px ; float:right}
+.r-center{width:300px ; float: right ; height:600px ;margin-left: auto ;}
+.c-center{ width:650px;float:right  ;  margin-right: 20px}
+.l-center{width:250px; height:688px; float: left; } 
+.footer{width:1500px;height:20px; margin-right:auto; margin-left:auto; background:; border:#000000;}
+.do_footer {width:100%;height:20px;background:#ABC7DF ;margin-top:200px; text-align:center;}
+.block-head { height: 50px ; background:#0A4FD9 ; border: #000000 1px ; text-align:center ; font-size: 18px ; color: #FFFFFF  }
+.block-body { text-align: right ;}
+.menu { direction:rtl ;}
+.menu ul {}
+.menu ul li {list-style: none }
+.menu ul li a { padding:9px ;  display:block; border-bottom: #FF0004 solid; text-decoration: none; height: 35px; font-size: 18px;   }
+.menu ul li a:hover{ border-bottom:#000000 solid; color:#FF0004; background:#BCEAEB; }
+.clear { clear: both }  
+.l_center marquee {text-align:center ; background:#FF0004 ; direction: ltr;}
+.block_body1 p { text-align: center ; color:  #FF0004; }
+.close { width:90% ; text-align: center ; padding:5px ; direction:rtl ; border:5px #004CFF solid; font-size:large; background:#FF0004;} 
+
+.all_news h3{ display:block; margin:2px 5px 2px 10px ; text-align:right; color: #FF0004; border:ipx #FFFFFF solid  ; margin-bottom: 5px;}
+.all_news img { float:right; margin_left: 8px; margin-right:2px;  }
+.all_news p { direction:ltr; text-align: justify ; color:#000000}
+.all_news h4 a{ color:#FF0004; margin:0; text-align:center}
+.all_news h4 {  margin:0; }
+.news_body { direction:rtl; }
+

@@ -1,0 +1,19 @@
+﻿			<textarea name="infromtion" id="fdddd"></textarea>
+			<script type="text/javascript" src="editor-min.js"></script>
+			<script type="text/javascript">
+				
+				Editor.setStyle({
+					"bgColor": "#FFD5B3",
+					"borderColor": "#c8c8c8",
+					"fontFamily": "tahoma"
+				});
+				
+				Editor.run({
+					"replace": "fdddd",  
+					"height": 120,  
+					"width": 600,
+					"path": "",
+					"mode": "advance"
+				});
+				
+			</script>
