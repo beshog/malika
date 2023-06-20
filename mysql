@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 2.10.3
+- http://www.phpmyadmin.net
+-
+- المزود: localhost
+- أنشئ في: 20 يونيو 2023 الساعة 14:27
+- إصدارة المزود: 5.0.51
+-  PHP إصدارة: 5.2.6
+-->
+
+<!--
+- قاعدة البيانات: 'a3dad'
+-->
+<a3dad>
+  <!-- الجدول  article -->
+    <article>
+        <id>3</id>
+        <title>Ø§Ù„ØµÙØ­Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©</title>
+        <article>																					&lt;p dir=&quot;rtl&quot; align=&quot;justify&quot; style=&quot;text-align: center; box-sizing: border-box; margin: 0px 0px 10px; font-family: &quot; helvetica=&quot;&quot; neue&quot;,=&quot;&quot; helvetica,=&quot;&quot; arial,=&quot;&quot; sans-serif;&quot;=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font size=&quot;5&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;&lt;img style=&quot;&quot; src=&quot;https://www.albawabhnews.com/Upload/libfiles/622/2/380.jpg&quot; align=&quot;left&quot; width=&quot;250&quot; height=&quot;300&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;h1 dir=&quot;rtl&quot; align=&quot;center&quot; style=&quot;box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &quot; helvetica=&quot;&quot; neue&quot;,=&quot;&quot; helvetica,=&quot;&quot; arial,=&quot;&quot; sans-serif;=&quot;&quot; font-weight:=&quot;&quot; 500;=&quot;&quot; line-height:=&quot;&quot; 1.1;&quot;=&quot;&quot;&gt;&lt;span lang=&quot;ar-eg&quot; style=&quot;box-sizing: border-box; font-weight: bold; font-size: 24pt !important; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#3F3D6D&quot; style=&quot;box-sizing: border-box; font-size: 24pt !important;&quot;&gt;Ø®Ø¯Ù…Ø© Ø°ÙˆÙŠ Ø§Ù„Ø§Ø­ØªÙŠØ§Ø¬Ø§Øª Ø§Ù„Ø®Ø§ØµØ©&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p dir=&quot;rtl&quot; align=&quot;justify&quot; style=&quot;text-align: center; box-sizing: border-box; margin: 0px 0px 10px; font-family: &quot; helvetica=&quot;&quot; neue&quot;,=&quot;&quot; helvetica,=&quot;&quot; arial,=&quot;&quot; sans-serif;&quot;=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font size=&quot;5&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Ø£ÙŠÙ‡Ø§&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;ar-eg&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Ø§Ù„Ø²Ø§Ø¦Ø± Ø§Ù„Ø¹Ø²ÙŠØ² Ø¬Ø¯Ù‹Ø§..&amp;nbsp; Ø¥Ø°Ø§ Ø¯Ù‚Ù‚Øª Ø§Ù„Ù†Ø¸Ø± ÙÙŠ Ø§Ù„Ø­ÙŠØ§Ø©..&amp;nbsp; Ø³ØªØ¬Ø¯ Ø£Ù†Ù‡ Ù„Ø§ ÙŠÙˆØ¬Ø¯ Ø¥Ù†Ø³Ø§Ù† ÙˆÙ„Ø§ Ø£ÙŠ Ù…Ø®Ù„ÙˆÙ‚ ÙƒØ§Ù…Ù„ØŒ Ø³ÙˆÙ‰ Ø§Ù„Ø®Ø§Ù„Ù‚ ÙˆØ­Ø¯Ù‡..&amp;nbsp; ÙˆÙƒÙ„ Ø´Ø®Øµ ÙÙŠÙ†Ø§ ÙŠÙ†Ù‚ØµÙ‡ Ø£Ù…Ø± Ù…Ø§ØŒ ÙˆÙŠØ­ØªØ§Ø¬ Ù„Ù„Ø¢Ø®Ø±ÙŠÙ† ÙÙŠ Ø£Ù…Ø± Ù…Ø§..&amp;nbsp; ÙˆØ¬Ù…ÙŠØ¹Ù†Ø§ Ù†ØªÙƒØ§Ù…Ù„ ÙƒØ£Ø¹Ø¶Ø§Ø¡ ÙÙŠ Ø¬Ø³Ø¯ ÙˆØ§Ø­Ø¯..&amp;nbsp; Ù„ÙƒÙ„Ù ÙƒØ±Ø§Ù…ØªÙ‡..&amp;nbsp; ÙˆÙ‚Ø¯Ø±Ø§ØªÙ‡ Ø§Ù„Ø®Ø§ØµØ©..&amp;nbsp; Ù‡Ø°Ø§&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;font size=&quot;5&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span lang=&quot;ar-eg&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Ø§Ù„Ù…ÙˆÙ‚Ø¹ Ù„Ø§ ÙŠÙ‡Ø¯Ù Ø¥Ù„Ù‰ Ø®Ø¯Ù…Ø© Ø§Ù„Ù…Ø³ÙŠØ­ÙŠØŒ Ø¨Ù„ Ø¥Ù„Ù‰ Ø®Ø¯Ù…Ø© Ø§Ù„Ø¥Ù†Ø³Ø§Ù†ØŒ Ø¨ØºØ¶ Ø§Ù„Ù†Ø¸Ø± Ø¹Ù† Ù„ÙˆÙ†Ù‡ Ø£Ùˆ Ø¬Ù†Ø³Ù‡ Ø£Ùˆ Ø¯ÙŠÙ†Ù‡ Ø£Ùˆ Ø´ÙƒÙ„Ù‡ Ø£Ùˆ Ø³Ù†Ù‡ Ø£Ùˆ Ù‚Ø¯Ø±Ø§ØªÙ‡...&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;rtl&quot; align=&quot;justify&quot; style=&quot;text-align: center; box-sizing: border-box; margin: 0px 0px 10px; font-family: &quot; helvetica=&quot;&quot; neue&quot;,=&quot;&quot; helvetica,=&quot;&quot; arial,=&quot;&quot; sans-serif;&quot;=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span lang=&quot;ar-eg&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;font size=&quot;5&quot; style=&quot;box-sizing: border-box;&quot;&gt;ÙÙ†Ø­Ù† &lt;/font&gt;&lt;/span&gt;&lt;font size=&quot;5&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span lang=&quot;ar-eg&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;nbsp;Ù„Ø§ Ù†Ù‚ÙˆÙ… Ø¨Ø®Ø¯Ù…Ø© Ø§Ù„Ù…Ø¹Ø§Ù‚ÙŠÙ† Ø°Ù‡Ù†ÙŠÙ‹Ø§ Ø£Ùˆ Ø¨Ø¯Ù†ÙŠÙ‹Ø§ Ù„Ø£Ù†Ù‡Ù… ÙŠÙ†Ù‚ØµÙˆÙ† Ø¹Ù†Ø§..&amp;nbsp; Ù†Ø­Ù† Ù†Ø¤Ù…Ù† Ø¨Ø£Ù† Ù„Ø¯ÙŠÙ‡Ù… Ø§Ù„ÙƒØ«ÙŠØ±ØŒ ÙˆÙ„Ø¯ÙŠÙ†Ø§ Ø§Ù„ÙƒØ«ÙŠØ±..&amp;nbsp; ÙÙ†Ø­Ù† Ù„Ø§ Ù†Ø³Ø§Ø¹Ø¯Ù‡Ù… ÙÙ‚Ø·ØŒ Ø¨Ù„ Ù†Ø£Ø®Ø° Ù…Ù†Ù‡Ù… Ø£ÙŠØ¶Ù‹Ø§..&amp;nbsp; ÙˆØµØ¯Ù‚ÙˆÙ†ÙŠ Ø¥Ù†ÙŠ Ø£Ø®Ø¬Ù„ Ø¹Ù†Ø¯ Ø§Ù„Ù†Ø¸Ø± Ù„Ø£Ø¹Ù…Ù‰ Ø£Ùˆ Ù…Ø¹Ø§Ù‚ Ù…Ù† Ø´Ø¯Ø© Ø·Ù‡Ø§Ø±ØªÙ‡ ÙˆØ¨Ø±Ø§Ø¡ØªÙ‡..&amp;nbsp; ÙˆØ£Ø±Ù‰ Ø£Ù† Ø§Ù„Ù„Ù‡ Ù„Ø¯ÙŠÙ‡ Ø­ÙƒÙ…Ø© ØªØ§Ù…Ø© ÙÙŠ Ù‡Ø°Ø§ Ø§Ù„Ø£Ù…Ø±..&amp;nbsp; ÙˆÙ‡Ø°Ø§ Ù…Ø§ ÙŠØ¬Ø¹Ù„Ù†ÙŠ Ø£ØªÙ‚Ø¨Ù„ Ø¥Ø¹Ø§Ù‚Ø§ØªÙŠ Ø§Ù„Ø®Ø§ØµØ© ÙˆØ¹ÙŠÙˆØ¨ÙŠØŒ Ø¹Ø§Ù„ÙÙ…Ù‹Ø§ Ø£Ù† Ø§Ù„Ù„Ù‡ ÙŠØ¹Ù…Ù„ ÙÙŠ Ø§Ù„Ø¶Ø¹Ù Ù„Ø§ ÙÙŠ Ø§Ù„Ù‚ÙˆØ©ØŒ ÙˆØ£Ù†Ù‡ Ø£ØªÙŠ Ù„Ù„Ù…Ø±Ø¶Ù‰ Ù„Ø§ Ù„Ù„Ø£ØµØ­Ø§Ø¡ØŒ ÙˆÙ‡Ùˆ Ø§Ù„Ù‚Ø§Ø¯Ø± ÙˆØ­Ø¯Ù‡ Ø£Ù† ÙŠÙØ®Ù’Ø±ÙØ¬ Ù…ÙÙ†ÙŽ Ø§Ù„Ø¢ÙƒÙÙ„Ù Ø£ÙÙƒÙ’Ù„Ø§Ù‹ ÙˆÙŽÙ…ÙÙ†ÙŽ Ø§Ù„Ù’Ø¬ÙŽØ§ÙÙÙŠ Ø­ÙŽÙ„Ø§ÙŽÙˆÙŽØ©ÙŒ&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;rtl&quot; align=&quot;justify&quot; style=&quot;text-align: center; box-sizing: border-box; margin: 0px 0px 10px; font-family: &quot; helvetica=&quot;&quot; neue&quot;,=&quot;&quot; helvetica,=&quot;&quot; arial,=&quot;&quot; sans-serif;&quot;=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font size=&quot;5&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span lang=&quot;ar-eg&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;a target=&quot;_blank&quot; class=&quot;autoverse&quot; href=&quot;https://st-takla.org/Bibles/BibleSearch/showVerses.php?book=7&amp;amp;chapter=14&amp;amp;vmin=14&quot; style=&quot;box-sizing: border-box; text-decoration-style: dotted; text-decoration-color: green; color: green !important; font-family: &quot; times=&quot;&quot; new=&quot;&quot; roman&quot;=&quot;&quot; !important;&quot;=&quot;&quot;&gt;(Ù‚Ø¶ 14: 14)&lt;/a&gt;..&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+			
+			
+			
+			
+			
+			
+			</article>
+        <home>1</home>
+        <active>1</active>
+    </article>
+  <!-- الجدول  news -->
+    <news>
+        <id>1</id>
+        <title> Ø§Ù„Ù…Ù‡Ø±Ø¬Ø§Ù†</title>
+        <short>Ø´Ø¹Ø§Ø± Ø§Ù„Ù…Ù‡Ø±Ø¬Ø§Ù† </short>
+        <news>&lt;h2 style=&quot;text-align: center; padding: 0px; margin: 0px 0px 0.5em; list-style: none; border: 0px; outline: none; box-sizing: border-box; font-family: &quot; noto=&quot;&quot; sans=&quot;&quot; arabic&quot;,=&quot;&quot; sans-serif;=&quot;&quot; line-height:=&quot;&quot; 1.4;=&quot;&quot; font-size:=&quot;&quot; 27px;=&quot;&quot; color:=&quot;&quot; rgb(44,=&quot;&quot; 47,=&quot;&quot; 52);=&quot;&quot; background-color:=&quot;&quot; rgb(255,=&quot;&quot; 255,=&quot;&quot; 255);&quot;=&quot;&quot;&gt;&lt;div&gt;&lt;p style=&quot;margin: 0;&quot; align=&quot;center&quot;&gt;&lt;div&gt;&lt;p style=&quot;margin: 0;&quot; align=&quot;center&quot;&gt;&lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/kzaXrskJDaI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/h2&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&lt;font size=&quot;6&quot; color=&quot;#cc6600&quot;&gt;ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ø´Ø¹Ø§Ø±&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgba(0, 0, 0, 0.05); font-family: Roboto, Arial, sans-serif; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#0000ff&quot; size=&quot;5&quot;&gt;&lt;b style=&quot;&quot;&gt;Ù…Ø´ Ø¨Ø§Ù„ØºØ§Ø±Ø³ ÙˆÙ„Ø§ Ø¨Ø§Ù„Ø³Ø§Ù‚ÙŠ                     Ø¨Ø±ÙƒØ© Ø±Ø¨Ù†Ø§ ØªÙ…Ù„Ø§ ÙˆØªØ·Ø±Ø­&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgba(0, 0, 0, 0.05); font-family: Roboto, Arial, sans-serif; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#0000ff&quot; size=&quot;5&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Roboto, Arial, sans-serif; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.05);&quot;&gt;&lt;font color=&quot;#0000ff&quot; size=&quot;5&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: center;&quot;&gt;ÙˆØ§Ù„Ø£Ø±Ø¶ Ø§Ù„Ù„ÙŠ Ø¥ÙŠØ¯ÙŠÙ‡ Ø­Ø§Ø±Ø³Ø§Ù‡Ø§                   Ø¨Ø«Ù…Ø± Ø§Ù„Ø±ÙˆØ­ ØªØ¹Ù„Ù‰ ÙˆØªÙØ±Ø­&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Ø§ÙØ±Ø­ Ø¨Ø¥ÙŠÙ…Ø§Ù†Ùƒ ÙˆÙƒÙ†ÙŠØ³ØªÙƒ                            Ø§Ù„Ù…Ø±Ø³ÙˆÙ…Ø© ÙÙŠ Ø¥ÙŠØ¯ Ø§Ù„Ù„Ù‡&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Ø§ÙØ±Ø­ Ø¨ØµÙ„Ø§ØªÙƒ ÙˆØ¹Ù‚ÙŠØ¯ØªÙƒ                      ÙˆØªØ§Ø±ÙŠØ®Ùƒ Ù…Ø´ Ø±Ø§Ø­ ØªÙ†Ø³Ø§Ù‡&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;ÙØ±Ø­ÙŠ Ù…Ù† Ø§Ù„Ø±Ø¨ ÙˆØµÙŠØ©                              Ù…Ø¬Ø¯ ÙˆØ­Ø±ÙŠØ© ..&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;         ÙˆÙƒÙ„Ø§Ù…Ù‡ Ø­ÙŠØ§Ø© ÙˆØ§Ù„Ø£Ø¨Ø¯ÙŠØ© Ù„Ø¬Ù‡Ø§Ø¯ÙŠ Ù‡Ø¯ÙŠØ©&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;       Ù†Ø¹Ù…Ø© ÙˆÙ‡Ø¨Ù‡Ø§ Ø§Ù„Ù„Ù‡ Ø¨ÙØ¯Ø§Ù‡&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Ù„Ù…Ø§ ØªÙƒÙˆÙ† Ù…Ø³ÙƒÙ† Ù„Ù„Ù‡                         Ù‚Ù„Ø¨Ùƒ Ø¹Ù…Ø±Ù‡ Ù…Ø§ ÙŠØ¹Ø±Ù ÙŠØ­Ø²Ù†&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;ÙˆØ±ÙˆØ­Ùƒ Ø¯Ø§ÙŠÙ…Ø§Ù‹ Ø¨ØªØ±Ù†Ù…                         Ù„Ø§ ØªÙƒÙ† Ø¥Ù„Ø§ ÙØ±Ø­Ù‹Ø§&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&lt;font size=&quot;6&quot; color=&quot;#0099ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</news>
+        <date>1686688231</date>
+        <pic>https://i.ytimg.com/vi/6vpyGGfb1J0/maxresdefault.jpg</pic>
+    </news>
+  <!-- الجدول  new_table -->
+    <new_table>
+        <sit_nume>7552</sit_nume>
+        <name>بيشوي رضا</name>
+        <degree>250</degree>
+        <pers>1</pers>
+        <result>ممتاز</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>2945</sit_nume>
+        <name>يوستينا لحظي</name>
+        <degree>226</degree>
+        <pers>0.904</pers>
+        <result>ممتاز</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>1728</sit_nume>
+        <name>مريم هشام</name>
+        <degree>216</degree>
+        <pers>0.864</pers>
+        <result>ممتاز</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>7479</sit_nume>
+        <name>يوستينا جميل</name>
+        <degree>214</degree>
+        <pers>0.856</pers>
+        <result>ممتاز</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>8449</sit_nume>
+        <name>فادي عماد</name>
+        <degree>214</degree>
+        <pers>0.856</pers>
+        <result>ممتاز</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>9421</sit_nume>
+        <name>ابانوب صابر</name>
+        <degree>214</degree>
+        <pers>0.856</pers>
+        <result>ممتاز</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>7488</sit_nume>
+        <name>تكلا فتحي</name>
+        <degree>213</degree>
+        <pers>0.852</pers>
+        <result>ممتاز</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>8478</sit_nume>
+        <name>كارولين إبراهيم</name>
+        <degree>212</degree>
+        <pers>0.848</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>8718</sit_nume>
+        <name>يوانا ماهر</name>
+        <degree>206</degree>
+        <pers>0.824</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>4049</sit_nume>
+        <name>مريم كمال </name>
+        <degree>205</degree>
+        <pers>0.82</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>2327</sit_nume>
+        <name>ميرنا اشرف</name>
+        <degree>205</degree>
+        <pers>0.82</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>8899</sit_nume>
+        <name>روبير</name>
+        <degree>199</degree>
+        <pers>0.796</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>9784</sit_nume>
+        <name>مارك رمسيس</name>
+        <degree>196</degree>
+        <pers>0.784</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>8456</sit_nume>
+        <name>امال يوسف</name>
+        <degree>189</degree>
+        <pers>0.756</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>9206</sit_nume>
+        <name>كيرلس هاني</name>
+        <degree>189</degree>
+        <pers>0.756</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>4391</sit_nume>
+        <name>ماريز هاني</name>
+        <degree>188</degree>
+        <pers>0.752</pers>
+        <result>جيد جدا</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>9303</sit_nume>
+        <name>ابانوب ياسر بخيت</name>
+        <degree>187</degree>
+        <pers>0.748</pers>
+        <result>جيد</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>5405</sit_nume>
+        <name>كريم </name>
+        <degree>181</degree>
+        <pers>0.724</pers>
+        <result>جيد</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>7878</sit_nume>
+        <name>مينا عماد</name>
+        <degree>179</degree>
+        <pers>0.716</pers>
+        <result>جيد</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>4100</sit_nume>
+        <name>ماركو ايليا مسعد </name>
+        <degree>179</degree>
+        <pers>0.716</pers>
+        <result>جيد</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>1734</sit_nume>
+        <name>باڤلي وجيه عياد </name>
+        <degree>175</degree>
+        <pers>0.7</pers>
+        <result>جيد</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>7104</sit_nume>
+        <name>ميرا ماهر</name>
+        <degree>169</degree>
+        <pers>0.676</pers>
+        <result>جيد</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>6104</sit_nume>
+        <name>ماركو منتصر فاخر </name>
+        <degree>169</degree>
+        <pers>0.676</pers>
+        <result>جيد</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>1706</sit_nume>
+        <name>فادي </name>
+        <degree>167</degree>
+        <pers>0.668</pers>
+        <result>جيد</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>3478</sit_nume>
+        <name>بيشوي اشرف جميل</name>
+        <degree>156</degree>
+        <pers>0.624</pers>
+        <result>مقبول</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>9474</sit_nume>
+        <name>بيتر جرجس نبيه</name>
+        <degree>150</degree>
+        <pers>0.6</pers>
+        <result>مقبول</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>1578</sit_nume>
+        <name>بيتر جميل نصحي</name>
+        <degree>147</degree>
+        <pers>0.588</pers>
+        <result>مقبول</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>2504</sit_nume>
+        <name>بولا زاهر خليفه حكيم</name>
+        <degree>145</degree>
+        <pers>0.58</pers>
+        <result>مقبول</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+    <new_table>
+        <sit_nume>1334</sit_nume>
+        <name>بولين رأفت مدحت </name>
+        <degree>124</degree>
+        <pers>0.496</pers>
+        <result>راسب</result>
+        <column></column>
+        <column_1></column_1>
+        <column_2></column_2>
+        <column_3></column_3>
+    </new_table>
+  <!-- الجدول  section -->
+    <section>
+        <id>4</id>
+        <name>Ø§Ù„ØµÙØ­Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©</name>
+        <link>index</link>
+        <arrange>1</arrange>
+    </section>
+    <section>
+        <id>2</id>
+        <name>Ù…Ù‡Ø±Ø¬Ø§Ù† 2023</name>
+        <link>news</link>
+        <arrange>2</arrange>
+    </section>
+  <!-- الجدول  setting -->
+    <setting>
+        <id>1</id>
+        <name>Ø§Ø³Ø±Ø© Ù…Ù„Ø§Ø¦ÙƒØ©</name>
+        <link>malika</link>
+        <msg>ØªÙ… Ø§ØºÙ„Ø§Ù‚ Ø§Ù„Ù…ÙˆÙ‚Ø¹ Ø­Ø§Ù„ÙŠØ§</msg>
+        <desc>dfbsvfsfvsvfv</desc>
+        <keyword>  </keyword>
+        <active>1</active>
+    </setting>
+</a3dad>
+
